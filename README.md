@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/iampdt/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/iampdt/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/iampdt/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/iampdt/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/iampdt/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/iampdt/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iampdt/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
