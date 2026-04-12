@@ -1,66 +1,35 @@
 class Solution {
-public:
-    int solve(char ci,char cj,int k,string word,unordered_map<char,pair<int,int>> &mp,vector<vector<vector<int>>>&dp)
-    {
-        if(k==word.length()) return 0;
-        if(dp[ci-'A'][cj-'A'][k] != -1) return dp[ci-'A'][cj-'A'][k];
-
-        //index of ci 
-        auto iti = mp[ci];
-        int xi = iti.first;
-        int yi = iti.second;
-
-        //index of cj
-        auto itj = mp[cj];
-        int xj = itj.first;
-        int yj = itj.second;
-
-        // index of word[k]
-        auto itk = mp[word[k]];
-        int xk = itk.first;
-        int yk = itk.second;
-
-        int diff1 = abs(xi - xk) + abs(yi -yk);
-        int diff2 = abs(xj - xk) + abs(yj - yk);
-
-        int choice_one = solve(word[k],cj,k+1,word,mp,dp) + diff1;
-        int choice_two = solve(ci,word[k],k+1,word,mp,dp) + diff2;
-
-        return dp[ci - 'A'][cj - 'A'][k] = min(choice_one,choice_two);
-
+private:
+    int getDistance(int c1, int c2) {
+        int row1 = c1 / 6, col1 = c1 % 6;
+        int row2 = c2 / 6, col2 = c2 % 6;
+        return abs(row1 - row2) + abs(col1 - col2);
     }
+
+public:
     int minimumDistance(string word) {
+        int n = word.length();
+        if (n <= 2) return 0; 
+        vector<int> dp(26, 0);
 
-        unordered_map<char,pair<int,int>> mp;
-        char ch = 'A';
-        int i=0;
-        
-        while(ch<='Z')
-        {
-            for(;i<4;i++)
-            {
-                for(int j=0;j<6;j++)
-                {
-                    mp[ch]={i,j};
-                    ch++;
-                }
-                
-            }
-            mp[ch]={4,0};
-            ch++;
-            mp[ch]={4,1};
-            break;
+        for (int i = 0; i < n - 1; i++) {
+            int u = word[i] - 'A';
+            int v = word[i + 1] - 'A';
+            vector<int> next_dp(26, 1e9);
 
-        }
-        int ans = INT_MAX;
-        vector<vector<vector<int>>> dp(26,vector<vector<int>>(26,vector<int>(word.length()+1,-1)));
-        for(char ci ='A';ci<='Z';ci++)
-        {
-            for(char cj='A';cj<='Z';cj++)
-            {
-                ans = min(ans,solve(ci,cj,0,word,mp,dp));
+            for (int c = 0; c < 26; c++) {
+                if (dp[c] == 1e9) continue; // Skip unreachable states
+                next_dp[c] = min(next_dp[c], dp[c] + getDistance(u, v));
+                next_dp[u] = min(next_dp[u], dp[c] + getDistance(c, v));
             }
+            dp = next_dp;
         }
-        return ans;
+
+        int min_cost = 1e9;
+        for (int cost : dp) {
+            min_cost = min(min_cost, cost);
+        }
+
+        return min_cost;
     }
 };
