@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0213-house-robber-ii](https://github.com/iampdt/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/iampdt/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1848-minimum-distance-to-the-target-element](https://github.com/iampdt/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iampdt/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/iampdt/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/iampdt/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
