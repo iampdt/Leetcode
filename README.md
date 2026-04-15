@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0213-house-robber-ii](https://github.com/iampdt/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/iampdt/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/iampdt/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iampdt/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/iampdt/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/iampdt/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/iampdt/Leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/iampdt/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/iampdt/Leetcode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iampdt/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Greedy
@@ -78,11 +80,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/iampdt/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/iampdt/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/iampdt/Leetcode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iampdt/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iampdt/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/iampdt/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## Stack
