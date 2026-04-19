@@ -4,25 +4,14 @@ public:
         
         // Two pointer
         int i = 0;
-        int j = nums2.size() - 1;
+        int j = 0;
         int ans = 0;
 
-        while(i<nums1.size() && j>=0)
+        while(i<nums1.size() && j<nums2.size())
         {
-           if(i>j) break;
-           if(nums1[i] <= nums2[j] && i<=j) {ans = max(ans,j-i); break;}
-           j--;
-           
-        }
-         i = 0;
-         j = nums2.size() - 1;
-
-         while(i<nums1.size() && j>=0)
-        {
-           if(i>j) break;
-           if(nums1[i] <= nums2[j] && i<=j) {ans = max(ans,j-i); break;}
-           i++;
-           
+            if(nums1[i] > nums2[j]) i++;
+            if(i<=j) ans = max(ans,j-i);
+            j++;
         }
 
         return ans;
