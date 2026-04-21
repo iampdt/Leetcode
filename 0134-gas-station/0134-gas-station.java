@@ -9,7 +9,7 @@ class Solution {
         {
             total_gas += gas[i];
             total_cost += cost[i];
-            curr_gas = gas[i] - cost[i];
+            curr_gas += gas[i] - cost[i];
             if(curr_gas < 0)
             {
                 index = i+1;
