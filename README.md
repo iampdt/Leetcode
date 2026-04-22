@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iampdt/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iampdt/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/iampdt/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/iampdt/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/iampdt/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iampdt/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/iampdt/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/iampdt/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1813-sentence-similarity-iii](https://github.com/iampdt/Leetcode/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/iampdt/Leetcode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/iampdt/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iampdt/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -136,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/iampdt/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/iampdt/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
