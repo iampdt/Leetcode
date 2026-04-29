@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0134-gas-station](https://github.com/iampdt/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0213-house-robber-ii](https://github.com/iampdt/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/iampdt/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/iampdt/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0942-di-string-match](https://github.com/iampdt/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
@@ -168,4 +169,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iampdt/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/iampdt/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/iampdt/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/iampdt/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/iampdt/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
