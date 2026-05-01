@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iampdt/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iampdt/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/iampdt/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/iampdt/Leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iampdt/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/iampdt/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iampdt/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/iampdt/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/iampdt/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/iampdt/Leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/iampdt/Leetcode/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2615-sum-of-distances](https://github.com/iampdt/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/iampdt/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/iampdt/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/iampdt/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/iampdt/Leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/iampdt/Leetcode/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/iampdt/Leetcode/tree/main/2730-find-the-longest-semi-repetitive-substring/) | Medium |
 ## Heap (Priority Queue)
