@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iampdt/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/iampdt/Leetcode/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2615-sum-of-distances](https://github.com/iampdt/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
+| [2761-prime-pairs-with-target-sum](https://github.com/iampdt/Leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iampdt/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/iampdt/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/iampdt/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/iampdt/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/iampdt/Leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iampdt/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2761-prime-pairs-with-target-sum](https://github.com/iampdt/Leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iampdt/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iampdt/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/iampdt/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -208,8 +210,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/iampdt/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [2761-prime-pairs-with-target-sum](https://github.com/iampdt/Leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/iampdt/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [2761-prime-pairs-with-target-sum](https://github.com/iampdt/Leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
