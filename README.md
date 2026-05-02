@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/iampdt/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0134-gas-station](https://github.com/iampdt/Leetcode/tree/main/0134-gas-station/) | Medium |
+| [0204-count-primes](https://github.com/iampdt/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0213-house-robber-ii](https://github.com/iampdt/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/iampdt/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/iampdt/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/iampdt/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/iampdt/Leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iampdt/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iampdt/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -202,4 +204,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/iampdt/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/iampdt/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/iampdt/Leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
