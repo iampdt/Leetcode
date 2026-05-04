@@ -14,14 +14,14 @@ public:
         // if(nums[nums.size() - 1] > nums[nums.size() - 2]) return nums[nums.size() - 1];
 
         int low = 0;
-        int high = nums.size()-1;
+        int high = nums.size();
         // int ans = -1;
 
-        while(low <= high)
+        while(low < high)
         {
             int mid = low + (high - low)/2;
             if(helper(nums,mid)) return mid;
-            else if(nums[mid] >= nums[mid + 1]) high = mid - 1;
+            else if(nums[mid] >= nums[mid + 1]) high = mid;
             else low = mid + 1;
 
 
