@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iampdt/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iampdt/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iampdt/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2055-plates-between-candles](https://github.com/iampdt/Leetcode/tree/main/2055-plates-between-candles/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/iampdt/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/iampdt/Leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iampdt/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/iampdt/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1813-sentence-similarity-iii](https://github.com/iampdt/Leetcode/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/iampdt/Leetcode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
+| [2055-plates-between-candles](https://github.com/iampdt/Leetcode/tree/main/2055-plates-between-candles/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iampdt/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iampdt/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/iampdt/Leetcode/tree/main/2730-find-the-longest-semi-repetitive-substring/) | Medium |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-find-in-mountain-array](https://github.com/iampdt/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iampdt/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iampdt/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2055-plates-between-candles](https://github.com/iampdt/Leetcode/tree/main/2055-plates-between-candles/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iampdt/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/iampdt/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Depth-First Search
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iampdt/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2055-plates-between-candles](https://github.com/iampdt/Leetcode/tree/main/2055-plates-between-candles/) | Medium |
 | [2615-sum-of-distances](https://github.com/iampdt/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
