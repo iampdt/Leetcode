@@ -6,7 +6,7 @@ public:
         for(int i=0;i<time.size();i++)
         {
             cnt+=1LL*(mid/time[i]);
-            if(cnt>=totalTrips) return true;
+            if(cnt>=totalTrips) break;
         }
         return cnt >= totalTrips;
     }
