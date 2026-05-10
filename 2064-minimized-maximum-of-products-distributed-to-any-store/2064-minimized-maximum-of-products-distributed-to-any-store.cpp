@@ -13,7 +13,7 @@ public:
     int minimizedMaximum(int n, vector<int>& nums) {
         
         int low = 1;
-        int high = accumulate(nums.begin(),nums.end(),0);
+        int high = 1e9;
 
         while(low < high)
         {
