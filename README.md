@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/iampdt/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/iampdt/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/iampdt/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/iampdt/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iampdt/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/iampdt/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1813-sentence-similarity-iii](https://github.com/iampdt/Leetcode/tree/main/1813-sentence-similarity-iii/) | Medium |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/iampdt/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/iampdt/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/iampdt/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/iampdt/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iampdt/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iampdt/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/iampdt/Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
