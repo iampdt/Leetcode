@@ -21,22 +21,21 @@ public:
             // Case 2: The slope reaches 0 naturally.
             // Because we used the "maxSum - n" trick, the remaining spaces are
             // just 0s.
-            return fullTriangle;
+            return fullTriangle + length - mid + 1;
         }
     }
     int maxValue(int n, int index, int maxSum) {
-        if(n == maxSum) return 1;
         int low = 1;
         int high = maxSum;
 
         while (low < high) {
             int mid = low + (high - low + 1) / 2;
-            if (check(n, maxSum - n,index, mid))
+            if (check(n, maxSum,index, mid))
                 low = mid;
             else
                 high = mid-1;
         }
-        return low+1;
+        return low;
     }
 };
 
