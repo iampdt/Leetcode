@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/iampdt/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0942-di-string-match](https://github.com/iampdt/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/iampdt/Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/iampdt/Leetcode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iampdt/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/iampdt/Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/iampdt/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/iampdt/Leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/iampdt/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/iampdt/Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iampdt/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/iampdt/Leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iampdt/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/iampdt/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/iampdt/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iampdt/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/iampdt/Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iampdt/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/iampdt/Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2055-plates-between-candles](https://github.com/iampdt/Leetcode/tree/main/2055-plates-between-candles/) | Medium |
