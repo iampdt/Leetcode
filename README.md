@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2594-minimum-time-to-repair-cars](https://github.com/iampdt/Leetcode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2615-sum-of-distances](https://github.com/iampdt/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/iampdt/Leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [3449-maximize-the-minimum-game-score](https://github.com/iampdt/Leetcode/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iampdt/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/iampdt/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/iampdt/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2439-minimize-maximum-of-array](https://github.com/iampdt/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/iampdt/Leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2528-maximize-the-minimum-powered-city](https://github.com/iampdt/Leetcode/tree/main/2528-maximize-the-minimum-powered-city/) | Hard |
+| [3449-maximize-the-minimum-game-score](https://github.com/iampdt/Leetcode/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/iampdt/Leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2528-maximize-the-minimum-powered-city](https://github.com/iampdt/Leetcode/tree/main/2528-maximize-the-minimum-powered-city/) | Hard |
 | [2594-minimum-time-to-repair-cars](https://github.com/iampdt/Leetcode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
+| [3449-maximize-the-minimum-game-score](https://github.com/iampdt/Leetcode/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iampdt/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/iampdt/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Depth-First Search
