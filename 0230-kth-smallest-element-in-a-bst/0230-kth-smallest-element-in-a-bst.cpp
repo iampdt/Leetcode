@@ -12,25 +12,44 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        // iterative inorder
-        int cnt = 0;
-        stack<TreeNode*> stk;
-        TreeNode* current = root;
-        vector<int> result;
-        while(current || !stk.empty())
-        {
-            while(current)
-            {
-                stk.push(current);
-                current = current->left;
+        TreeNode* curr = root;
+        int result = -1; // To store the k-th smallest value
+        
+        while (curr != nullptr) {
+            if (curr->left == nullptr) {
+                // VISIT NODE
+                k--;
+                if (k == 0) result = curr->val;
+                
+                // Move to the right
+                curr = curr->right;
+            } else {
+                // Find the inorder predecessor of current
+                TreeNode* pre = curr->left;
+                while (pre->right != nullptr && pre->right != curr) {
+                    pre = pre->right;
+                }
+                
+                if (pre->right == nullptr) {
+                    // Create the thread and go left
+                    pre->right = curr;
+                    curr = curr->left;
+                } else {
+                    // The thread already exists, so we are done with the left subtree
+                    // Restore the tree structure
+                    pre->right = nullptr;
+                    
+                    // VISIT NODE
+                    k--;
+                    if (k == 0) result = curr->val;
+                    
+                    // Move to the right
+                    curr = curr->right;
+                }
             }
-            TreeNode* topNode = stk.top();
-            stk.pop();
-            result.push_back(topNode->val);
-            if(topNode->right) current = topNode->right;
-
         }
-       return result[k-1];
+        
+        return result;
     }
 };
 // Inorder is sorted
