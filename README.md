@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/iampdt/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/iampdt/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/iampdt/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/iampdt/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -309,12 +311,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/iampdt/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/iampdt/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/iampdt/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/iampdt/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
