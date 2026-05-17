@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/iampdt/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iampdt/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/iampdt/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/iampdt/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/iampdt/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iampdt/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/iampdt/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/iampdt/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iampdt/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/iampdt/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Backtracking
