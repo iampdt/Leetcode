@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/iampdt/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/iampdt/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/iampdt/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/iampdt/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0134-gas-station](https://github.com/iampdt/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/iampdt/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/iampdt/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/iampdt/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0257-binary-tree-paths](https://github.com/iampdt/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/iampdt/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/iampdt/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/iampdt/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/iampdt/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/iampdt/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/iampdt/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/iampdt/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
