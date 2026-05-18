@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/iampdt/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/iampdt/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/iampdt/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/iampdt/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0134-gas-station](https://github.com/iampdt/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/iampdt/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/iampdt/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iampdt/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0213-house-robber-ii](https://github.com/iampdt/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/iampdt/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/iampdt/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/iampdt/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0134-gas-station](https://github.com/iampdt/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/iampdt/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/iampdt/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
