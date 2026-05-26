@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/iampdt/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0133-clone-graph](https://github.com/iampdt/Leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0146-lru-cache](https://github.com/iampdt/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/iampdt/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/iampdt/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/iampdt/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/iampdt/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/iampdt/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/iampdt/Leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Divide and Conquer
@@ -410,4 +412,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/iampdt/Leetcode/tree/main/0133-clone-graph/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/iampdt/Leetcode/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/iampdt/Leetcode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
