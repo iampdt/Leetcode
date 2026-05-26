@@ -14,7 +14,7 @@ public:
     int maxAreaOfIsland(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-        int cnt = 0;
+        
         int max_area = 0;
         vector<vector<int>> vis(n,vector<int>(m,0));
 
@@ -24,9 +24,9 @@ public:
             {
                 if(grid[i][j] == 1 && vis[i][j] == 0)
                 {
+                    int cnt = 0;
                     dfs(i,j,grid,vis,cnt);
                     max_area = max(max_area,cnt);
-                    cnt = 0;
                 }
             }
         }
