@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/iampdt/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/iampdt/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/iampdt/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Two Pointers
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/iampdt/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/iampdt/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -415,9 +417,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/iampdt/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0146-lru-cache](https://github.com/iampdt/Leetcode/tree/main/0146-lru-cache/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/iampdt/Leetcode/tree/main/0146-lru-cache/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/iampdt/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
