@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/iampdt/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iampdt/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/iampdt/Leetcode/tree/main/0134-gas-station/) | Medium |
+| [0139-word-break](https://github.com/iampdt/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/iampdt/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/iampdt/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0204-count-primes](https://github.com/iampdt/Leetcode/tree/main/0204-count-primes/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/iampdt/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iampdt/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iampdt/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0139-word-break](https://github.com/iampdt/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0213-house-robber-ii](https://github.com/iampdt/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/iampdt/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/iampdt/Leetcode/tree/main/0377-combination-sum-iv/) | Medium |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/iampdt/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/iampdt/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0139-word-break](https://github.com/iampdt/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/iampdt/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/iampdt/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/iampdt/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -125,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/iampdt/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0133-clone-graph](https://github.com/iampdt/Leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0139-word-break](https://github.com/iampdt/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/iampdt/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/iampdt/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/iampdt/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -285,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/iampdt/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/iampdt/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iampdt/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Prefix Sum
@@ -410,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/iampdt/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/iampdt/Leetcode/tree/main/0139-word-break/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
