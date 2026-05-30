@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/iampdt/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/iampdt/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/iampdt/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/iampdt/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/iampdt/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iampdt/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/iampdt/Leetcode/tree/main/0134-gas-station/) | Medium |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/iampdt/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/iampdt/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/iampdt/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
