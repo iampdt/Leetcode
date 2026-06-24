@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/iampdt/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0695-max-area-of-island](https://github.com/iampdt/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/iampdt/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iampdt/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/iampdt/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iampdt/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/iampdt/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/iampdt/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0518-coin-change-ii](https://github.com/iampdt/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/iampdt/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iampdt/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/iampdt/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2439-minimize-maximum-of-array](https://github.com/iampdt/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/iampdt/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/iampdt/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/iampdt/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/iampdt/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iampdt/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0942-di-string-match](https://github.com/iampdt/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/iampdt/Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
