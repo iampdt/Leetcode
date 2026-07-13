@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-find-in-mountain-array](https://github.com/iampdt/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1105-filling-bookcase-shelves](https://github.com/iampdt/Leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/iampdt/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1406-stone-game-iii](https://github.com/iampdt/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/iampdt/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/iampdt/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iampdt/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iampdt/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/iampdt/Leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/iampdt/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1406-stone-game-iii](https://github.com/iampdt/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [2439-minimize-maximum-of-array](https://github.com/iampdt/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/iampdt/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## String
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/iampdt/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0367-valid-perfect-square](https://github.com/iampdt/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/iampdt/Leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [1406-stone-game-iii](https://github.com/iampdt/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1492-the-kth-factor-of-n](https://github.com/iampdt/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/iampdt/Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iampdt/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -475,4 +478,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iampdt/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/iampdt/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
