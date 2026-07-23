@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0879-profitable-schemes](https://github.com/iampdt/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
 | [0956-tallest-billboard](https://github.com/iampdt/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1105-filling-bookcase-shelves](https://github.com/iampdt/Leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/iampdt/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/iampdt/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/iampdt/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1402-reducing-dishes](https://github.com/iampdt/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/iampdt/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/iampdt/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0942-di-string-match](https://github.com/iampdt/Leetcode/tree/main/0942-di-string-match/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/iampdt/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/iampdt/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/iampdt/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1813-sentence-similarity-iii](https://github.com/iampdt/Leetcode/tree/main/1813-sentence-similarity-iii/) | Medium |
