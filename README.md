@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/iampdt/Leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/iampdt/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/iampdt/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0472-concatenated-words](https://github.com/iampdt/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/iampdt/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/iampdt/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/iampdt/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/iampdt/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/iampdt/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/iampdt/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0472-concatenated-words](https://github.com/iampdt/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/iampdt/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/iampdt/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/iampdt/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/iampdt/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/iampdt/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/iampdt/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0472-concatenated-words](https://github.com/iampdt/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/iampdt/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/iampdt/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/iampdt/Leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
@@ -274,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/iampdt/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/iampdt/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/iampdt/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0472-concatenated-words](https://github.com/iampdt/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1402-reducing-dishes](https://github.com/iampdt/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
@@ -355,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iampdt/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/iampdt/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0472-concatenated-words](https://github.com/iampdt/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0547-number-of-provinces](https://github.com/iampdt/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/iampdt/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -376,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/iampdt/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/iampdt/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/iampdt/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0472-concatenated-words](https://github.com/iampdt/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iampdt/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
