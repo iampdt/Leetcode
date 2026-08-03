@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/iampdt/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/iampdt/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/iampdt/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iampdt/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iampdt/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/iampdt/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1813-sentence-similarity-iii](https://github.com/iampdt/Leetcode/tree/main/1813-sentence-similarity-iii/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/iampdt/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/iampdt/Leetcode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1626-best-team-with-no-conflicts](https://github.com/iampdt/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iampdt/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [2439-minimize-maximum-of-array](https://github.com/iampdt/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/iampdt/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## String
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/iampdt/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/iampdt/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/iampdt/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iampdt/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/iampdt/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1813-sentence-similarity-iii](https://github.com/iampdt/Leetcode/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/iampdt/Leetcode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
