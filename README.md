@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1388-pizza-with-3n-slices](https://github.com/iampdt/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1402-reducing-dishes](https://github.com/iampdt/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/iampdt/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/iampdt/Leetcode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/iampdt/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/iampdt/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/iampdt/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1388-pizza-with-3n-slices](https://github.com/iampdt/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1402-reducing-dishes](https://github.com/iampdt/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/iampdt/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/iampdt/Leetcode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1626-best-team-with-no-conflicts](https://github.com/iampdt/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/iampdt/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/iampdt/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -569,4 +571,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iampdt/Leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/iampdt/Leetcode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 <!---LeetCode Topics End-->
