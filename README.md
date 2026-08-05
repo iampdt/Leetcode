@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/iampdt/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/iampdt/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1105-filling-bookcase-shelves](https://github.com/iampdt/Leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
+| [1187-make-array-strictly-increasing](https://github.com/iampdt/Leetcode/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/iampdt/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/iampdt/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1402-reducing-dishes](https://github.com/iampdt/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-shortest-common-supersequence](https://github.com/iampdt/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1105-filling-bookcase-shelves](https://github.com/iampdt/Leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/iampdt/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1187-make-array-strictly-increasing](https://github.com/iampdt/Leetcode/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/iampdt/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/iampdt/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/iampdt/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/iampdt/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1187-make-array-strictly-increasing](https://github.com/iampdt/Leetcode/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1402-reducing-dishes](https://github.com/iampdt/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/iampdt/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/iampdt/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
@@ -349,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/iampdt/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/iampdt/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/iampdt/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1187-make-array-strictly-increasing](https://github.com/iampdt/Leetcode/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/iampdt/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/iampdt/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/iampdt/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -591,4 +595,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/iampdt/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [1187-make-array-strictly-increasing](https://github.com/iampdt/Leetcode/tree/main/1187-make-array-strictly-increasing/) | Hard |
 <!---LeetCode Topics End-->
