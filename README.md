@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0942-di-string-match](https://github.com/iampdt/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0956-tallest-billboard](https://github.com/iampdt/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/iampdt/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/iampdt/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1048-longest-string-chain](https://github.com/iampdt/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/iampdt/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/iampdt/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0879-profitable-schemes](https://github.com/iampdt/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
 | [0956-tallest-billboard](https://github.com/iampdt/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/iampdt/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1048-longest-string-chain](https://github.com/iampdt/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/iampdt/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1105-filling-bookcase-shelves](https://github.com/iampdt/Leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/iampdt/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/iampdt/Leetcode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0942-di-string-match](https://github.com/iampdt/Leetcode/tree/main/0942-di-string-match/) | Easy |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/iampdt/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1048-longest-string-chain](https://github.com/iampdt/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/iampdt/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/iampdt/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
