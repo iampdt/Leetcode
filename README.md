@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/iampdt/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iampdt/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/iampdt/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0877-stone-game](https://github.com/iampdt/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/iampdt/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/iampdt/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0942-di-string-match](https://github.com/iampdt/Leetcode/tree/main/0942-di-string-match/) | Easy |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iampdt/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iampdt/Leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/iampdt/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
+| [0877-stone-game](https://github.com/iampdt/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/iampdt/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
 | [0956-tallest-billboard](https://github.com/iampdt/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/iampdt/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/iampdt/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/iampdt/Leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/iampdt/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
+| [0877-stone-game](https://github.com/iampdt/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/iampdt/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1492-the-kth-factor-of-n](https://github.com/iampdt/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/iampdt/Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
@@ -578,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/iampdt/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/iampdt/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -601,4 +605,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/iampdt/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1187-make-array-strictly-increasing](https://github.com/iampdt/Leetcode/tree/main/1187-make-array-strictly-increasing/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/iampdt/Leetcode/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/iampdt/Leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
