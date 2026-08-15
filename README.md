@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/iampdt/Leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/iampdt/Leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/iampdt/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/iampdt/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/iampdt/Leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0392-is-subsequence](https://github.com/iampdt/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/iampdt/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/iampdt/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/iampdt/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0367-valid-perfect-square](https://github.com/iampdt/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/iampdt/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/iampdt/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/iampdt/Leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/iampdt/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
@@ -589,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/iampdt/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/iampdt/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/iampdt/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/iampdt/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -618,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/iampdt/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/iampdt/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/iampdt/Leetcode/tree/main/0877-stone-game/) | Medium |
 ## Zero-Sum Game
