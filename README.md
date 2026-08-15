@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/iampdt/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/iampdt/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1105-filling-bookcase-shelves](https://github.com/iampdt/Leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/iampdt/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1187-make-array-strictly-increasing](https://github.com/iampdt/Leetcode/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/iampdt/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/iampdt/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/iampdt/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/iampdt/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1105-filling-bookcase-shelves](https://github.com/iampdt/Leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/iampdt/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/iampdt/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1187-make-array-strictly-increasing](https://github.com/iampdt/Leetcode/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/iampdt/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iampdt/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0942-di-string-match](https://github.com/iampdt/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/iampdt/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/iampdt/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1402-reducing-dishes](https://github.com/iampdt/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/iampdt/Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
@@ -323,10 +326,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/iampdt/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/iampdt/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -613,4 +618,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/iampdt/Leetcode/tree/main/0877-stone-game/) | Medium |
+## Cartesian Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/iampdt/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 <!---LeetCode Topics End-->
