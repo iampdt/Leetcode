@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iampdt/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/iampdt/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0043-multiply-strings](https://github.com/iampdt/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/iampdt/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/iampdt/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/iampdt/Leetcode/tree/main/0067-add-binary/) | Easy |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/iampdt/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/iampdt/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0415-add-strings](https://github.com/iampdt/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/iampdt/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -346,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/iampdt/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0043-multiply-strings](https://github.com/iampdt/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/iampdt/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/iampdt/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/iampdt/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
