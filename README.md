@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/iampdt/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/iampdt/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/iampdt/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/iampdt/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/iampdt/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iampdt/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/iampdt/Leetcode/tree/main/0134-gas-station/) | Medium |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/iampdt/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0066-plus-one](https://github.com/iampdt/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/iampdt/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/iampdt/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/iampdt/Leetcode/tree/main/0204-count-primes/) | Medium |
