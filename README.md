@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/iampdt/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/iampdt/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0146-lru-cache](https://github.com/iampdt/Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0202-happy-number](https://github.com/iampdt/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/iampdt/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/iampdt/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/iampdt/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/iampdt/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/iampdt/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0202-happy-number](https://github.com/iampdt/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/iampdt/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/iampdt/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/iampdt/Leetcode/tree/main/0392-is-subsequence/) | Easy |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/iampdt/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/iampdt/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/iampdt/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/iampdt/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/iampdt/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0367-valid-perfect-square](https://github.com/iampdt/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/iampdt/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
@@ -659,4 +662,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/iampdt/Leetcode/tree/main/0067-add-binary/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/iampdt/Leetcode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
