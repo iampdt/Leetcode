@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/iampdt/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/iampdt/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/iampdt/Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0278-first-bad-version](https://github.com/iampdt/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/iampdt/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0367-valid-perfect-square](https://github.com/iampdt/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/iampdt/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -519,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/iampdt/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/iampdt/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
