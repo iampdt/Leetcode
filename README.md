@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iampdt/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/iampdt/Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iampdt/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/iampdt/Leetcode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iampdt/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2043-simple-bank-system](https://github.com/iampdt/Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2055-plates-between-candles](https://github.com/iampdt/Leetcode/tree/main/2055-plates-between-candles/) | Medium |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/iampdt/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iampdt/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/iampdt/Leetcode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2043-simple-bank-system](https://github.com/iampdt/Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/iampdt/Leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/iampdt/Leetcode/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/iampdt/Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iampdt/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/iampdt/Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/iampdt/Leetcode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2055-plates-between-candles](https://github.com/iampdt/Leetcode/tree/main/2055-plates-between-candles/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/iampdt/Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/iampdt/Leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
@@ -496,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iampdt/Leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/iampdt/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iampdt/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/iampdt/Leetcode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/iampdt/Leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2528-maximize-the-minimum-powered-city](https://github.com/iampdt/Leetcode/tree/main/2528-maximize-the-minimum-powered-city/) | Hard |
 | [2537-count-the-number-of-good-subarrays](https://github.com/iampdt/Leetcode/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
