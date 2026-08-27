@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2187-minimum-time-to-complete-trips](https://github.com/iampdt/Leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/iampdt/Leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/iampdt/Leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/iampdt/Leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2439-minimize-maximum-of-array](https://github.com/iampdt/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iampdt/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/iampdt/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/iampdt/Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/iampdt/Leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/iampdt/Leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/iampdt/Leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2439-minimize-maximum-of-array](https://github.com/iampdt/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/iampdt/Leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2528-maximize-the-minimum-powered-city](https://github.com/iampdt/Leetcode/tree/main/2528-maximize-the-minimum-powered-city/) | Hard |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/iampdt/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iampdt/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2055-plates-between-candles](https://github.com/iampdt/Leetcode/tree/main/2055-plates-between-candles/) | Medium |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/iampdt/Leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2439-minimize-maximum-of-array](https://github.com/iampdt/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2528-maximize-the-minimum-powered-city](https://github.com/iampdt/Leetcode/tree/main/2528-maximize-the-minimum-powered-city/) | Hard |
 | [2615-sum-of-distances](https://github.com/iampdt/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
@@ -489,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/iampdt/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/iampdt/Leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2528-maximize-the-minimum-powered-city](https://github.com/iampdt/Leetcode/tree/main/2528-maximize-the-minimum-powered-city/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -501,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iampdt/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/iampdt/Leetcode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/iampdt/Leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/iampdt/Leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 | [2528-maximize-the-minimum-powered-city](https://github.com/iampdt/Leetcode/tree/main/2528-maximize-the-minimum-powered-city/) | Hard |
 | [2537-count-the-number-of-good-subarrays](https://github.com/iampdt/Leetcode/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/iampdt/Leetcode/tree/main/2730-find-the-longest-semi-repetitive-substring/) | Medium |
@@ -511,10 +516,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/iampdt/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/iampdt/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/iampdt/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/iampdt/Leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/iampdt/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/iampdt/Leetcode/tree/main/2398-maximum-number-of-robots-within-budget/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
