@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iampdt/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/iampdt/Leetcode/tree/main/2730-find-the-longest-semi-repetitive-substring/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/iampdt/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [4026-maximum-gap-between-stations](https://github.com/iampdt/Leetcode/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/iampdt/Leetcode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iampdt/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iampdt/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [4026-maximum-gap-between-stations](https://github.com/iampdt/Leetcode/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2528-maximize-the-minimum-powered-city](https://github.com/iampdt/Leetcode/tree/main/2528-maximize-the-minimum-powered-city/) | Hard |
 | [3449-maximize-the-minimum-game-score](https://github.com/iampdt/Leetcode/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/iampdt/Leetcode/tree/main/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Medium |
+| [4026-maximum-gap-between-stations](https://github.com/iampdt/Leetcode/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
