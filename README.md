@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/iampdt/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/iampdt/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iampdt/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/iampdt/Leetcode/tree/main/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/iampdt/Leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2528-maximize-the-minimum-powered-city](https://github.com/iampdt/Leetcode/tree/main/2528-maximize-the-minimum-powered-city/) | Hard |
 | [3449-maximize-the-minimum-game-score](https://github.com/iampdt/Leetcode/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/iampdt/Leetcode/tree/main/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
