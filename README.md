@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/iampdt/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/iampdt/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iampdt/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
+| [1643-kth-smallest-instructions](https://github.com/iampdt/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iampdt/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/iampdt/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1813-sentence-similarity-iii](https://github.com/iampdt/Leetcode/tree/main/1813-sentence-similarity-iii/) | Medium |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-max-dot-product-of-two-subsequences](https://github.com/iampdt/Leetcode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1626-best-team-with-no-conflicts](https://github.com/iampdt/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iampdt/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
+| [1643-kth-smallest-instructions](https://github.com/iampdt/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
 | [2439-minimize-maximum-of-array](https://github.com/iampdt/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/iampdt/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## String
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/iampdt/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/iampdt/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1492-the-kth-factor-of-n](https://github.com/iampdt/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1643-kth-smallest-instructions](https://github.com/iampdt/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/iampdt/Leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iampdt/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/iampdt/Leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
@@ -692,4 +695,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/iampdt/Leetcode/tree/main/0202-happy-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1643-kth-smallest-instructions](https://github.com/iampdt/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
 <!---LeetCode Topics End-->
