@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-max-dot-product-of-two-subsequences](https://github.com/iampdt/Leetcode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/iampdt/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/iampdt/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/iampdt/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/iampdt/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iampdt/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1643-kth-smallest-instructions](https://github.com/iampdt/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/iampdt/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/iampdt/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/iampdt/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/iampdt/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/iampdt/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -623,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/iampdt/Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/iampdt/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/iampdt/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/iampdt/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -699,4 +702,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1643-kth-smallest-instructions](https://github.com/iampdt/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/iampdt/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/iampdt/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/iampdt/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/iampdt/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
