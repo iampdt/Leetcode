@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/iampdt/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/iampdt/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/iampdt/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0686-repeated-string-match](https://github.com/iampdt/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/iampdt/Leetcode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0942-di-string-match](https://github.com/iampdt/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/iampdt/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
@@ -746,16 +747,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iampdt/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0686-repeated-string-match](https://github.com/iampdt/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iampdt/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0686-repeated-string-match](https://github.com/iampdt/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iampdt/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0686-repeated-string-match](https://github.com/iampdt/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iampdt/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0686-repeated-string-match](https://github.com/iampdt/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
 <!---LeetCode Topics End-->
