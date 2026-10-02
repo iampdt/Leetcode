@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0956-tallest-billboard](https://github.com/iampdt/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/iampdt/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
+| [0992-subarrays-with-k-different-integers](https://github.com/iampdt/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/iampdt/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1048-longest-string-chain](https://github.com/iampdt/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/iampdt/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/iampdt/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/iampdt/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0992-subarrays-with-k-different-integers](https://github.com/iampdt/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/iampdt/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iampdt/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/iampdt/Leetcode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/iampdt/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/iampdt/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -543,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/iampdt/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iampdt/Leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/iampdt/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/iampdt/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iampdt/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/iampdt/Leetcode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/iampdt/Leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
