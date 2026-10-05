@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iampdt/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iampdt/Leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0733-flood-fill](https://github.com/iampdt/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0739-daily-temperatures](https://github.com/iampdt/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/iampdt/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iampdt/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/iampdt/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -384,11 +385,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0739-daily-temperatures](https://github.com/iampdt/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/iampdt/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0739-daily-temperatures](https://github.com/iampdt/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/iampdt/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 ## Math
 | Problem Name | Difficulty |
