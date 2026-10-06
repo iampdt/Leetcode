@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/iampdt/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/iampdt/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/iampdt/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/iampdt/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iampdt/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/iampdt/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0139-word-break](https://github.com/iampdt/Leetcode/tree/main/0139-word-break/) | Medium |
@@ -385,12 +386,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/iampdt/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/iampdt/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/iampdt/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/iampdt/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/iampdt/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/iampdt/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 ## Math
@@ -785,4 +788,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iampdt/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0686-repeated-string-match](https://github.com/iampdt/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/iampdt/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
