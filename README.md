@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/iampdt/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0139-word-break](https://github.com/iampdt/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/iampdt/Leetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/iampdt/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/iampdt/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/iampdt/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0200-number-of-islands](https://github.com/iampdt/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/iampdt/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/iampdt/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/iampdt/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/iampdt/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/iampdt/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/iampdt/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/iampdt/Leetcode/tree/main/0278-first-bad-version/) | Easy |
