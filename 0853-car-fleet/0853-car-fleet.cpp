@@ -15,8 +15,8 @@ public:
            if(!stk.empty())
            {
              auto it = stk.top();
-             cout<<v[i].first<<" "<<v[i].second<<endl;
-             cout<<float(target - v[i].first)/v[i].second<<endl;
+            //  cout<<v[i].first<<" "<<v[i].second<<endl;
+            //  cout<<float(target - v[i].first)/v[i].second<<endl;
              if(float(target - v[i].first)/v[i].second > curr_max)
              {
                 stk.pop();
@@ -34,16 +34,6 @@ public:
            }
            
         }
-        // while(!stk.empty())
-        // {
-        //     auto it = stk.top();
-        //     if(float(target - it.first)/it.second > curr_max)
-        //     {
-        //         count++;
-        //         curr_max = float(target - it.first)/it.second;
-        //     }
-        //     stk.pop();
-        // }
 
         return count;
     }
