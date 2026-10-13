@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/iampdt/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/iampdt/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iampdt/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0853-car-fleet](https://github.com/iampdt/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/iampdt/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/iampdt/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/iampdt/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/iampdt/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/iampdt/Leetcode/tree/main/0436-find-right-interval/) | Medium |
 | [0472-concatenated-words](https://github.com/iampdt/Leetcode/tree/main/0472-concatenated-words/) | Hard |
+| [0853-car-fleet](https://github.com/iampdt/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iampdt/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/iampdt/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/iampdt/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/iampdt/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/iampdt/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/iampdt/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -397,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/iampdt/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/iampdt/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/iampdt/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/iampdt/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/iampdt/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 ## Math
 | Problem Name | Difficulty |
