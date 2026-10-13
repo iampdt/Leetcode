@@ -34,16 +34,16 @@ public:
            }
            
         }
-        while(!stk.empty())
-        {
-            auto it = stk.top();
-            if(float(target - it.first)/it.second > curr_max)
-            {
-                count++;
-                curr_max = float(target - it.first)/it.second;
-            }
-            stk.pop();
-        }
+        // while(!stk.empty())
+        // {
+        //     auto it = stk.top();
+        //     if(float(target - it.first)/it.second > curr_max)
+        //     {
+        //         count++;
+        //         curr_max = float(target - it.first)/it.second;
+        //     }
+        //     stk.pop();
+        // }
 
         return count;
     }
