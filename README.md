@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/iampdt/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/iampdt/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/iampdt/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/iampdt/Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/iampdt/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/iampdt/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iampdt/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/iampdt/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/iampdt/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/iampdt/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/iampdt/Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
