@@ -1,33 +1,30 @@
 class Solution {
 public:
     string minRemoveToMakeValid(string s) {
-        string ans = "";
-        stack<int> stk;
-        unordered_map<int,int> mp;
-        for(int i=0;i<s.length();i++)
-        {
-           if(s[i] == '(') 
-           {
-             stk.push(i);
-           }
-           else if(s[i] == ')' && !stk.empty())
-           {
-                mp[stk.top()]++;
-                stk.pop();
-                mp[i]++;
-           }
-           
+        stack<int> st;
+        string ans="";
+        for (int i = 0; i < s.size(); i++) {
+            if (s[i] == '(') {
+                st.push(i);
+            } else if(s[i]==')') {
+                if (st.empty()) {
+                    s[i]='0';
+                } else {
+                    st.pop();
+                }
+            }
         }
-
-        for(int i=0;i<s.length();i++)
-        {
-            if(s[i] != '(' && s[i] != ')') ans+=s[i];
-            else if((s[i] == '(' || s[i] == ')') && mp.find(i) != mp.end()) { ans+=s[i]; mp.erase(i);}
-
+        if (!st.empty()) {
+            while (!st.empty()) {
+                s[st.top()]='0';
+                st.pop();
+            }
         }
-
-        
-     return ans;
-
+        for(int i=0;i<s.size();i++){
+            if(s[i]!='0'){
+                ans+=s[i];
+            }
+        }
+        return ans;
     }
 };
