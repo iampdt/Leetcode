@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/iampdt/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/iampdt/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/iampdt/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
+| [0827-making-a-large-island](https://github.com/iampdt/Leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iampdt/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0853-car-fleet](https://github.com/iampdt/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/iampdt/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -500,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/iampdt/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/iampdt/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0827-making-a-large-island](https://github.com/iampdt/Leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/iampdt/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/iampdt/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -510,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/iampdt/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/iampdt/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/iampdt/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0827-making-a-large-island](https://github.com/iampdt/Leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/iampdt/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/iampdt/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/iampdt/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -553,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/iampdt/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/iampdt/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/iampdt/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0827-making-a-large-island](https://github.com/iampdt/Leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iampdt/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -642,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/iampdt/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/iampdt/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0827-making-a-large-island](https://github.com/iampdt/Leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/iampdt/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Binary Tree
