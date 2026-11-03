@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/iampdt/Leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/iampdt/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/iampdt/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/iampdt/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/iampdt/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/iampdt/Leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/iampdt/Leetcode/tree/main/0139-word-break/) | Medium |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/iampdt/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/iampdt/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/iampdt/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/iampdt/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/iampdt/Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/iampdt/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/iampdt/Leetcode/tree/main/0140-word-break-ii/) | Hard |
@@ -640,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/iampdt/Leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iampdt/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/iampdt/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/iampdt/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/iampdt/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/iampdt/Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/iampdt/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -823,4 +826,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/iampdt/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/iampdt/Leetcode/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
